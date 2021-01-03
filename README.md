@@ -1,1 +1,1 @@
-# CovidTracker
+# CovidTracker 🦠
