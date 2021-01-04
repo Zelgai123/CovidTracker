@@ -24,7 +24,7 @@ SECRET_KEY = 'qlh7m=z1a@&+h5%c7r#v^(1#tss*@jak_7o03khu^7q!o(f3c+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'zelgaitracker.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
