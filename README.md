@@ -22,7 +22,7 @@ Against the background of the current worldwide covid-19-pandemic, I programmed 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <br>
 
-The web application is deployed and can be reached <a href="https://zelgaitracker.com/" target="_blank"> here</a>.
+The web application is deployed and can be reached <a href="https://zelgaitracker.com/" target="_blank"> <strong> here</strong></a>.
 <img src="https://github.com/Zelgai123/CovidTracker/blob/main/src/images/preview.PNG"
      alt="Covid Tracker Preview" style="border-radius: 5px;"/>
 
