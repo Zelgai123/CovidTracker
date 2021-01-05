@@ -1,9 +1,5 @@
 # CovidTracker 🦠 WebApp 🌐
 ## A web application that visualizes the current data and news, of the Covid 19 pandemic.
-<img src=""
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
 
 ### CONTENTS OF THIS FILE
 ---------------------
