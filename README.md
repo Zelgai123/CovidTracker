@@ -1,6 +1,8 @@
 # CovidTracker 🦠 WebApp 🌐
 ## A web application that visualizes the current data and news, of the Covid 19 pandemic.
-
+<img src=""
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 ### CONTENTS OF THIS FILE
@@ -40,6 +42,16 @@ $ open http://localhost:3000/
 
 
 ## Usage
+Worldwide data is displayed by default. This configuration can be changed using the drop-down menu. The data will now be adapted to the selected country.
+
+The world map and especially the circles refer to the covid-cases by default. You can change this by clicking on one of the other two info boxes.
+
+If you click on a country-specific circle on the map, a brief overview of the current Covid situation in this country opens.
+
+The current Covid cases, in each country, are sorted and displayed in a scrollable list.
+
+The diagram shows the temporal course of the worldwide new Covid cases. By hovering over the diagram with the mouse, the specific data can be displayed.
+
 
 
 
