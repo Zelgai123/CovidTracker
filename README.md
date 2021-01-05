@@ -41,7 +41,7 @@ $ open http://localhost:3000/
 ## Usage
 Worldwide data is displayed by default. This configuration can be changed using the drop-down menu. The data will now be adapted to the selected country.
 <img src="https://github.com/Zelgai123/CovidTracker/blob/main/src/images/dropdown.png"
-     alt="Covid Tracker Preview" style="border-radius: 5px;"/>
+     alt="Covid Tracker Preview" style="width: 200px; height: auto;"/>
 The world map and especially the circles refer to the covid-cases by default. You can change this by clicking on one of the other two info boxes.
 <img src="https://github.com/Zelgai123/CovidTracker/blob/main/src/images/infoboxes.png"
      alt="Covid Tracker Preview" style="border-radius: 5px;"/>
