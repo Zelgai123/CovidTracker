@@ -23,7 +23,8 @@ Against the background of the current worldwide covid-19-pandemic, I programmed 
 <br>
 
 The web application is deployed and can be reached <a href="https://zelgaitracker.com/" target="_blank"> here</a>.
-
+<img src="https://github.com/Zelgai123/CovidTracker/blob/main/src/images/preview.PNG"
+     alt="Covid Tracker Preview"/>
 
 ## Installation
 Please execute the following commands in a bash to start the web app in your local development environment.
