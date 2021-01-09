@@ -1,5 +1,5 @@
 # CovidTracker 🦠 WebApp 🌐
-# <a href="https://zelgaitracker.com/" target="_blank">Visit this site here!</a>
+## <a href="https://zelgaitracker.com/" target="_blank">Visit this site here!</a>
 ## A web application that visualizes the current data and news, of the Covid 19 pandemic.
 
 ### CONTENTS OF THIS FILE
